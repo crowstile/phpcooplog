@@ -1,0 +1,1 @@
+//require login page use to set session on all pages if session is not set -> send to logout
